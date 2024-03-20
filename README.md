@@ -13,16 +13,16 @@ As an experienced Full-Stack Developer, I specialize in JavaScript, React, Node.
 - **APIs and Architectures**: OAuth, OpenAI, RESTful APIs, MVC, MVT, GraphQL
 
 ## 🚀 Projects
-- **CodeChallenger** [view code](https://github.com/TimHuitt/code-challenger-client) | [view app](https://code-challenger-app.netlify.app/)
+- **CodeChallenger** [code](https://github.com/TimHuitt/code-challenger-client) | [app](https://code-challenger-app.netlify.app/)
   - React, JavaScript, Node.js, Express
   > AI Generated code challenges. Customize challenges and let AI evaluate your solution. Provides challenge details, test cases, hints, and solutions.
-- **Promptopus** [view code](https://github.com/TimHuitt/Promptopus) | [view app](https://promptopus.netlify.app/)
+- **Promptopus** [code](https://github.com/TimHuitt/Promptopus) | [app](https://promptopus.netlify.app/)
   - Next.js, TypeScript
   > Prompt generator for artist inspiration. Prompts generate randomized emojis or words. Stories generates either themed or randomized AI generated short stories.
-- **Auto Component** [view code](https://github.com/TimHuitt/auto-component) | [view app](https://auto-component.com/)
+- **Auto Component** [code](https://github.com/TimHuitt/auto-component) | [app](https://auto-component.com/)
   - React, JavaScript, Node.js, Express
   > An npm published tool that streamlines UI element creation in React projects through AI prompted element generation.
-- **Green Diary** [view code](https://github.com/elliesolhjou/Green-Diary) | [view app](https://green-diary-app-2098e92803f3.herokuapp.com/)
+- **Green Diary** [code](https://github.com/elliesolhjou/Green-Diary) | [app](https://green-diary-app-2098e92803f3.herokuapp.com/)
   - Django, Python, PostgreSQL, Bootstrap
   > A CO2 tracking application enhancing environmental awareness through user-friendly design and robust backend functionality.
 
