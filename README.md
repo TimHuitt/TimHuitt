@@ -26,14 +26,6 @@ As an experienced Full-Stack Developer, I specialize in JavaScript, React, Node.
   - Django, Python, PostgreSQL, Bootstrap
   > A CO2 tracking application enhancing environmental awareness through user-friendly design and robust backend functionality.
 
-## 🌱 Learning Interests
-While I am deeply engaged in full-stack development, I am also drawn to expanding my knowledge in the following areas:
-- **Decentralized Technologies**: Explore decentralized systems and their applications including Web3, Blockchain, and Smart Contracts.
-- **Machine Learning & Neural Networks**: Understanding the intricacies of data patterns and predictive analysis.
-- **Cybersecurity**: Expanding my knowledge about secure coding practices and protecting systems against vulnerabilities.
-- **Cloud Architecture**: Deepen my understanding of cloud services and infrastructure, particularly with platforms like AWS, Azure, and GCP.
-- **Containerization and Orchestration**: Excited to learn more about Docker, Kubernetes, and managing scalable, distributed systems.
-
 
 ## 📫 How to reach me
 📧 timhuitt@gmail.com <br />
