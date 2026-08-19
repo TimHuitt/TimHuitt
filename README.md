@@ -12,7 +12,7 @@ Most recently, I spent 18 months as the sole engineer on a HIPAA-compliant produ
 - **Security & Compliance**: OAuth, Auth0, NextAuth.js, Session Management, SSL/TLS
 
 ## Projects
-- **DevLedger** - [code](https://github.com/TimHuitt/devledger)
+- **DevLedger** - [code](https://github.com/TimHuitt/devledger) | [app](https://devledger-alpha.vercel.app/)
   - Next.js, TypeScript, Node.js, PostgreSQL, Tailwind CSS
   - Pipeline and project management tool for solo freelance developers - prospects, clients, projects, time tracking, and reporting in one place
 - **CodeChallenger** - [code](https://github.com/TimHuitt/code-challenger-client) | [app](https://code-challenger-app.netlify.app/)
